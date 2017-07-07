@@ -1,0 +1,647 @@
+fileFormatVersion: 2
+guid: e70393c18be53e54d879063a85bc7225
+timeCreated: 1474893534
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: allpicture_inverse-2_0
+    21300002: allpicture_inverse-2_1
+    21300004: allpicture_inverse-2_2
+    21300006: allpicture_inverse-2_3
+    21300008: allpicture_inverse-2_4
+    21300010: allpicture_inverse-2_5
+    21300012: allpicture_inverse-2_6
+    21300014: allpicture_inverse-2_7
+    21300016: allpicture_inverse-2_8
+    21300018: allpicture_inverse-2_9
+    21300020: allpicture_inverse-2_10
+    21300022: allpicture_inverse-2_11
+    21300024: allpicture_inverse-2_12
+    21300026: allpicture_inverse-2_13
+    21300028: allpicture_inverse-2_14
+    21300030: allpicture_inverse-2_15
+    21300032: allpicture_inverse-2_16
+    21300034: allpicture_inverse-2_17
+    21300036: allpicture_inverse-2_18
+    21300038: allpicture_inverse-2_19
+    21300040: allpicture_inverse-2_20
+    21300042: allpicture_inverse-2_21
+    21300044: allpicture_inverse-2_22
+    21300046: allpicture_inverse-2_23
+    21300048: allpicture_inverse-2_24
+    21300050: allpicture_inverse-2_25
+    21300052: allpicture_inverse-2_26
+    21300054: allpicture_inverse-2_27
+    21300056: allpicture_inverse-2_28
+    21300058: allpicture_inverse-2_29
+    21300060: allpicture_inverse-2_30
+    21300062: allpicture_inverse-2_31
+    21300064: allpicture_inverse-2_32
+    21300066: allpicture_inverse-2_33
+    21300068: allpicture_inverse-2_34
+    21300070: allpicture_inverse-2_35
+    21300072: allpicture_inverse-2_36
+    21300074: allpicture_inverse-2_37
+    21300076: allpicture_inverse-2_38
+    21300078: allpicture_inverse-2_39
+    21300080: allpicture_inverse-2_40
+    21300082: allpicture_inverse-2_41
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: allpicture_inverse-2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3589
+        width: 390
+        height: 475
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_1
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3591
+        width: 390
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_2
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 3592
+        width: 390
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_3
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 3589
+        width: 390
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_4
+      rect:
+        serializedVersion: 2
+        x: 2056
+        y: 3589
+        width: 390
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_5
+      rect:
+        serializedVersion: 2
+        x: 2569
+        y: 3593
+        width: 390
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_6
+      rect:
+        serializedVersion: 2
+        x: 3085
+        y: 3591
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_7
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 3592
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_8
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 3075
+        width: 390
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_9
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3080
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_10
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 3081
+        width: 390
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_11
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 3081
+        width: 390
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_12
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 3083
+        width: 390
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_13
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 3083
+        width: 390
+        height: 464
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_14
+      rect:
+        serializedVersion: 2
+        x: 3605
+        y: 3078
+        width: 390
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_15
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 2568
+        width: 488
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_16
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 2573
+        width: 492
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_17
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 2575
+        width: 492
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_18
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 2568
+        width: 472
+        height: 443
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_19
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 2565
+        width: 392
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_20
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 2055
+        width: 390
+        height: 478
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_21
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 2050
+        width: 390
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_22
+      rect:
+        serializedVersion: 2
+        x: 2044
+        y: 2055
+        width: 390
+        height: 480
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_23
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 2054
+        width: 390
+        height: 481
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_24
+      rect:
+        serializedVersion: 2
+        x: 3084
+        y: 2062
+        width: 390
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_25
+      rect:
+        serializedVersion: 2
+        x: 3597
+        y: 2061
+        width: 390
+        height: 470
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_26
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 1542
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_27
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1545
+        width: 390
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_28
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1542
+        width: 390
+        height: 472
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_29
+      rect:
+        serializedVersion: 2
+        x: 2571
+        y: 1542
+        width: 390
+        height: 469
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_30
+      rect:
+        serializedVersion: 2
+        x: 3076
+        y: 1542
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_31
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 1546
+        width: 390
+        height: 468
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_32
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 1037
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_33
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 1039
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_34
+      rect:
+        serializedVersion: 2
+        x: 2045
+        y: 1035
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_35
+      rect:
+        serializedVersion: 2
+        x: 2553
+        y: 1037
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_36
+      rect:
+        serializedVersion: 2
+        x: 3078
+        y: 1037
+        width: 390
+        height: 454
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_37
+      rect:
+        serializedVersion: 2
+        x: 3603
+        y: 1029
+        width: 390
+        height: 465
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_38
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 527
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_39
+      rect:
+        serializedVersion: 2
+        x: 2549
+        y: 527
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_40
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 527
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: allpicture_inverse-2_41
+      rect:
+        serializedVersion: 2
+        x: 3594
+        y: 529
+        width: 390
+        height: 471
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

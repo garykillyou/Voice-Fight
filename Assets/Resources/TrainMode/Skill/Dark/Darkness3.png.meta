@@ -1,0 +1,413 @@
+fileFormatVersion: 2
+guid: 67e1ca802512fe248847ba91c89a1a34
+timeCreated: 1477935705
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Darkness3_0
+    21300002: Darkness3_1
+    21300004: Darkness3_2
+    21300006: Darkness3_3
+    21300008: Darkness3_4
+    21300010: Darkness3_5
+    21300012: Darkness3_6
+    21300014: Darkness3_7
+    21300016: Darkness3_8
+    21300018: Darkness3_9
+    21300020: Darkness3_10
+    21300022: Darkness3_11
+    21300024: Darkness3_12
+    21300026: Darkness3_13
+    21300028: Darkness3_14
+    21300030: Darkness3_15
+    21300032: Darkness3_16
+    21300034: Darkness3_17
+    21300036: Darkness3_18
+    21300038: Darkness3_19
+    21300040: Darkness3_20
+    21300042: Darkness3_21
+    21300044: Darkness3_22
+    21300046: Darkness3_23
+    21300048: Darkness3_24
+    21300050: Darkness3_25
+    21300052: Darkness3_26
+    21300054: Darkness3_27
+    21300056: Darkness3_28
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Darkness3_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 806
+        width: 191
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 854
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_2
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 851
+        width: 28
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_3
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 847
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_4
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 842
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_5
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 630
+        width: 88
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_6
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 635
+        width: 92
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_8
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 637
+        width: 131
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_9
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 636
+        width: 169
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_10
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 635
+        width: 187
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 410
+        width: 187
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_13
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 410
+        width: 187
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_14
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 411
+        width: 187
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_15
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 411
+        width: 187
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_16
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 411
+        width: 187
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 219
+        width: 187
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_18
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 219
+        width: 187
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_19
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 220
+        width: 187
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_20
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 221
+        width: 187
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_21
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 224
+        width: 187
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_22
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 33
+        width: 187
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 39
+        width: 187
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_24
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 50
+        width: 187
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_26
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 53
+        width: 187
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Darkness3_27
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 59
+        width: 187
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
