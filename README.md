@@ -8,3 +8,4 @@
 
 這是一個完整的Unity專案。
 
+![image](https://github.com/garykillyou/Voice-Fight/blob/master/Assets/Resources/MainMenu/%E6%8E%A7%E5%88%B6%E5%8F%B0%E8%83%8C%E6%99%AF.png)
